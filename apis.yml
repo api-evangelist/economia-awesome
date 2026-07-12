@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://docs.awesomeapi.com.br/api-de-moedas
 common:
+  - type: DomainSecurity
+    url: security/economia-awesome-domain-security.yml
   - type: Website
     url: https://docs.awesomeapi.com.br/api-de-moedas
   - type: PublicAPIsListing
