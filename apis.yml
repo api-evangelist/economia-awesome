@@ -1,4 +1,16 @@
 aid: economia-awesome
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/economia-awesome.png
 name: Economia.Awesome
 description: "Portuguese free currency prices and conversion with no rate limits"
 url: https://docs.awesomeapi.com.br/api-de-moedas
