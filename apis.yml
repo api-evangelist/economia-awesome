@@ -35,11 +35,11 @@ x-tier-reason: bulk-registered-from-public-apis
 tags:
   - Currency Exchange
   - Public APIs
+  - Exchange Rates
 apis:
   - name: Economia.Awesome
     description: "Portuguese free currency prices and conversion with no rate limits"
     humanURL: https://docs.awesomeapi.com.br/api-de-moedas
-    baseURL: https://docs.awesomeapi.com.br/api-de-moedas
     tags:
       - Currency Exchange
     properties:
