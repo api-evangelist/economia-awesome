@@ -33,6 +33,10 @@ x-category: "Currency Exchange"
 x-tier: 3
 x-tier-reason: bulk-registered-from-public-apis
 tags:
+  - Foreign Exchange
+  - Public APIs
+  - Exchange Rates
+tags_raw:
   - Currency Exchange
   - Public APIs
   - Exchange Rates
@@ -41,6 +45,8 @@ apis:
     description: "Portuguese free currency prices and conversion with no rate limits"
     humanURL: https://docs.awesomeapi.com.br/api-de-moedas
     tags:
+      - Foreign Exchange
+    tags_raw:
       - Currency Exchange
     properties:
       - type: Documentation
